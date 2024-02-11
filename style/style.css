@@ -128,7 +128,11 @@ h2:hover{
     font-size:24px;
     border-radius: 15px;
     margin-left:105px;
-    
 
     
+}
+.section-2{
+    width: 1728px;
+    height:1385px;
+    background-color: #FF7420;
 }
