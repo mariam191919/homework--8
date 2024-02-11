@@ -132,22 +132,39 @@ h2:hover{
     
 }
 .section-2{
-    width: 1728px;
-    height:1385px;
+    width: 100%;
     background-color: #FF7420;
     display: flex;
     justify-content: space-evenly;
-    align-items: center;
+    
+
 }
 .nav-section2{
     display: flex;
     justify-content: space-around;
-    align-items: center;
+    width: 800px;
+    height:600px;
+    margin-top:20px;
 }
 .ul-section2{
     display: flex;
 }
 .li-sec2{
     display: flex;
-    align-items: center;
+    padding: 20px;
+    font-family: "Poppins", sans-serif;
+    font-size:18px;
+    color: #FFFFFF;
+}
+h3{
+    margin-top: 30px;
+    font-family: "Poppins", sans-serif;
+    font-size: 64px;
+    color:#191A19;
+}
+.work{
+    color:#191A19;
+    text-decoration: underline;
+    font-family: "Poppins", sans-serif;
+    font-size:18px;
 }
