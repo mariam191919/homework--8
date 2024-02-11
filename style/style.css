@@ -135,4 +135,19 @@ h2:hover{
     width: 1728px;
     height:1385px;
     background-color: #FF7420;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+.nav-section2{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.ul-section2{
+    display: flex;
+}
+.li-sec2{
+    display: flex;
+    align-items: center;
 }
